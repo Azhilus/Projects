@@ -1,1 +1,1 @@
-<iframe width="1276" height="718" src="https://www.youtube.com/embed/Lum3jNE0Td8" title="BeatMate Project Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![BeatMate Project Preview](https://img.youtube.com/vi/Lum3jNE0Td8/0.jpg)](https://www.youtube.com/watch?v=Lum3jNE0Td8)
