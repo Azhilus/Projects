@@ -10,8 +10,8 @@ MACROMASTER is a handheld macro keypad developed using ESP32 Embedded Systems. T
 
 - **Handheld Macro Keypad**: A purely hardware-based design for macro key functionality.
 - **Custom Menu Firmware**: Allows for profile switching at the hardware level.
-- **18 Mappable Inputs**: many inputs
-- **Supports upto 50+ Profiles**: Stores on flash
+- **18 Mappable Inputs**: Offers a versatile array of inputs for user customization, enhancing productivity and control.
+- **Supports upto 50+ Profiles**: Stores a large number of profiles in flash memory, accommodating diverse user needs and configurations.
 - **Notification Alert System** (Upcoming): Planned feature to display important notifications on the keypad screen.
 
 ## Achievements
