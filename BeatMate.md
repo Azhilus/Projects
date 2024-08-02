@@ -30,3 +30,4 @@ BeatMate is an innovative project that leverages the Spotify Web API and ESP8266
 
 - **Spotify API**: For providing access to a vast music library.
 - **ESP8266 Community**: For their support and resources in embedded systems development.
+- **ECE Department of BPIT**: For providing a platform to showcase the project.
