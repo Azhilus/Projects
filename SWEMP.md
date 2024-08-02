@@ -2,7 +2,7 @@
 
 SWEMP is a smart wearable device designed for miners, integrating real-time hazard monitoring and alert systems using Raspberry Pi 4, ESP32, and ESP8266. The device monitors environmental conditions and communicates with a local server to ensure safety in mineshafts.
 
-![Thumbnail](https://github.com/user-attachments/assets/bccfbee1-649c-4bbd-ab88-206b68c6f84e)
+<img src="https://github.com/user-attachments/assets/bccfbee1-649c-4bbd-ab88-206b68c6f84e" alt="Thumbnail" width="300"/>
 
 ## Features
 
